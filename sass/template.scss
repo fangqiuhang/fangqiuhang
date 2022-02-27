@@ -65,27 +65,27 @@ section.page {
 .block {
     background-color: $block_backgroud_colour;
     color: $block_colour;
-    :before {
+    &:before {
         color: $block_colour;
     }
-    .ref {
+    &.ref {
         background: $ref_background;
         border-radius: 2px;
     }
 
-    .tip {
+    &.tip {
         background: $tip_background;
         border-top-color: $tip_border_top_colour;
     }
-    .note {
+    &.note {
         background: $note_background;
         border-top-color: $note_border_top_colour;
     }
-    .info {
+    &.info {
         background: $info_background;
         border-top-color: $info_border_top_colour;
     }
-    .warn {
+    &.warn {
         background: $warn_background;
         border-top-color: $warn_border_top_colour;
     }
