@@ -14,3 +14,15 @@
 [submodule "content/RFC9002_Chinese_Translation"]
 	path = content/RFC9002_Chinese_Translation
 	url = git@github.com:fangqiuhang/RFC9002_Chinese_Translation
+[submodule "content/RFC9114_Chinese_Simplified"]
+	path = content/RFC9114_Chinese_Simplified
+	url = /home/sad/tmp/RFC9114_Chinese_Simplified/
+[submodule "content/RFC9204_Chinese_Simplified"]
+	path = content/RFC9204_Chinese_Simplified
+	url = /home/sad/tmp/RFC9204_Chinese_Simplified/
+[submodule "content/RFC9221_Chinese_Simplified"]
+	path = content/RFC9221_Chinese_Simplified
+	url = /home/sad/tmp/RFC9221_Chinese_Simplified/
+[submodule "content/RFC9250_Chinese_Simplified"]
+	path = content/RFC9250_Chinese_Simplified
+	url = /home/sad/tmp/RFC9250_Chinese_Simplified/
